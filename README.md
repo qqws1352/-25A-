@@ -1,7 +1,3 @@
-好的，我已经将整个项目的设计思路、系统架构、核心算法和实现方案整理成一份结构清晰、内容专业的GitHub README文档。
-
----
-
 # 能量回馈的变流器负载试验装置
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
